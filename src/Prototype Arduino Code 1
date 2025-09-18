@@ -141,3 +141,8 @@ void loop() {
     moverMotores(160, 160, true);  // Aceleración mayor en ausencia de obstáculos
   }
 }
+
+
+
+This was our first prototype code.
+
