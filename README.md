@@ -15,4 +15,4 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+Our team Cyperapes created our auto driving car "cyber ape" to participate in the WRO nationals 2025. It is an autonomus driving car, which was designed to detect obstacles in its surroundings and drive around it. We used 4 ultrasonic sensors on each sides of the car, the front, the two side, and the back. We used two dc motos for the backwheels, and used a servo motor to create an axis for the two wheels in front. We further created a piezzo buzzer which makes a beeping sound when the car detects an object. 
