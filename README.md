@@ -17,4 +17,8 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 Our team Cyper Apes created our auto driving car "Cyber Ape" to participate in the WRO Nationals 2025. It is an autonomous driving car, which was designed to detect obstacles in its surroundings and drive around it. We used 4 ultrasonic sensors on each sides of the car; the front, the two sides, and the back. We used two DC motos for the backwheels, and used a servo motor to create an axis for the two wheels in front. We further implemented a piezzo buzzer which makes a beeping sound when the car detects an object. 
 
+**Please read the README.md files in each folders to understand our documentation better**
+
 Nuestro equipo **Cyber Apes** creó nuestro auto autónomo **"Cyber Ape"** para participar en el **WRO Nationals 2025**. Es un vehículo de conducción autónoma diseñado para detectar obstáculos en su entorno y conducir alrededor de ellos. Utilizamos **cuatro sensores ultrasónicos** en cada lado del auto: el frontal, los dos laterales y el trasero. También usamos **dos motores de corriente continua (DC)** para las ruedas traseras y un **servo motor** para crear un eje que controle las dos ruedas delanteras. Además, implementamos un **zumbador piezoeléctrico** que emite un sonido de pitido cuando el auto detecta un objeto.
+
+**Por favor, lee los archivos README.md en cada carpeta para comprender mejor nuestra documentación.**
